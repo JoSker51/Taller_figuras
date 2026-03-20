@@ -1,0 +1,3 @@
+/home/vboxuser/Documents/taller_figuras/build/CMakeFiles/main.dir
+/home/vboxuser/Documents/taller_figuras/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/Documents/taller_figuras/build/CMakeFiles/rebuild_cache.dir
